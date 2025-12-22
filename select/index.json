@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "群青讃歌",
+  "base_artist": "Eve",
+  "createdAt": "2025-12-22T15:20:33.122301Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "群青讃歌",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_群青讃歌_Eve.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "群青讃歌 (feat. 星乃一歌&花里みのり&小豆沢こはね&天馬司&宵崎奏&初音ミク)",
+      "artist": "初音ミク、星乃一歌、花里みのり、小豆沢こはね、天馬司、宵崎奏",
+      "has_synced": true,
+      "path": "select/02_群青讃歌_(feat._星乃一歌&花里みのり&小豆沢こはね&天馬司&宵崎奏&初音ミク)_初音ミク、星乃一歌、花里みのり、小豆沢こはね、天馬司、宵崎奏.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "群青讃歌",
+      "artist": "初音ミク、星乃一歌、花里みのり、小豆沢こはね、天馬司、宵崎奏",
+      "has_synced": true,
+      "path": "select/03_群青讃歌_初音ミク、星乃一歌、花里みのり、小豆沢こはね、天馬司、宵崎奏.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "群青讃歌 (instrumental)",
+      "artist": "初音ミク、星乃一歌、花里みのり、小豆沢こはね、天馬司、宵崎奏",
+      "has_synced": true,
+      "path": "select/04_群青讃歌_(instrumental)_初音ミク、星乃一歌、花里みのり、小豆沢こはね、天馬司、宵崎奏.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "群青讃歌",
+      "artist": "星乃一歌(CV.野口瑠璃子)、花里みのり(CV.小倉唯)、小豆沢こはね(CV.秋奈)、天馬司(CV.廣瀬大介)、宵崎奏(CV.楠木ともり)、初音ミク",
+      "has_synced": false,
+      "path": "select/05_群青讃歌_星乃一歌(CV.野口瑠璃子)、花里みのり(CV.小倉唯)、小豆沢こはね(CV.秋奈)、天馬司(CV.廣瀬大介)、宵崎奏(CV.楠木ともり)、初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "群青讃歌",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_群青讃歌_Eve.txt"
+    }
+  ]
+}
